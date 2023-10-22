@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ---
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kushanisajinika&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sachini1234&show_icons=true&theme=tokyonight)
