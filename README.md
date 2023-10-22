@@ -7,3 +7,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything.
 - 😄 I want to make my dream come true soon.
 - ⚡ Fun fact: I'm interested in watching Theligu movies,reading books.
+
+### Language & Tools
