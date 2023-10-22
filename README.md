@@ -1,4 +1,4 @@
-### Hi there, I'm sachini Thilakshika 👋
+# Hi there, I'm sachini Thilakshika 👋
 Graduate of Sabaragamuwa University of Sri Lanka & following B.Sc.(hons) Computing and Information Systems in Department of Computing and Information Systems,Faculty of Computing.Studied Combined Mathematics in Advanced Level.
 
 Here are some ideas to get you started:
@@ -8,5 +8,16 @@ Here are some ideas to get you started:
 - 😄 I want to make my dream come true soon.
 - ⚡ Fun fact: I'm interested in watching Theligu movies,reading books.
 
-##### Languages & Tools
-![image](https://github.com/sachini1234/sachini1234/assets/57388062/379d098a-01e3-4c0c-9ed2-52603ac03d61) ![image](https://github.com/sachini1234/sachini1234/assets/57388062/afa3ba1c-28b5-4fad-8451-ab7e10dc8b73) ![image](https://github.com/sachini1234/sachini1234/assets/57388062/e7bf9219-6d6c-4156-a8b8-72be3e020e3a) ![image](https://github.com/sachini1234/sachini1234/assets/57388062/50e76501-64f1-4d3c-8756-f0e85f1b4942)
+### Languages & Tools
+
+<img align="left" alt="codeSTACKr | javascript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="codeSTACKr | html" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+---
+<br>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kushanisajinika&show_icons=true&theme=tokyonight)
